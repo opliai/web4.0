@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/opliai/web4.0/tree/gh-pages) branch hosts the contents of this directory at <https://opliai.github.io/web4.0/>.
-The permalink for this webpage version is <https://opliai.github.io/web4.0/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/>.
+The permalink for this webpage version is <https://opliai.github.io/web4.0/v/ea1aa744c5c94b3d1bf558d906230cece86e34b9/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://opliai.github.io/web4.0/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`ca748bf4e80a830d7bee69a20b1fae18e028d9e6`](https://github.com/opliai/web4.0/commit/ca748bf4e80a830d7bee69a20b1fae18e028d9e6).
+[`ea1aa744c5c94b3d1bf558d906230cece86e34b9`](https://github.com/opliai/web4.0/commit/ea1aa744c5c94b3d1bf558d906230cece86e34b9).
